@@ -19,7 +19,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#STEM">STEM</a>
+                        <a class="page-scroll" href="#stem">STEM</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
@@ -47,7 +47,7 @@
                 <div class="intro-lead-in">NPA OpenROV</div>
                 <div class="intro-heading">A High School STEM program</div>
                 <div class="introimg-attr">&#169; NEEMO CC-BY-NC-SA 3.0 Unported</div>
-                <a href="#STEM" class="page-scroll btn btn-xl">Tell Me More</a>
+                <a href="#stem" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
     </header>
