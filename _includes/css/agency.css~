@@ -330,16 +330,36 @@ header .introimg-attr {
 	font-weight: bold;
 }
 
-#stem-desc {
+#stem {
+    margin-top:100px;
+    margin-bottom:-10px;
+    padding:0px;
+}
+
+.stem-desc {
 	color: black;
 	font-size: 20px;
 	text-align: center;
 	margin-bottom: -10px;
 	margin-top: 10px;
+	font-style: normal;
 }
 
 .STEM-heading {
 	text-align: center;
+}
+
+#npaweblink {
+    color: #E8150C;
+}
+
+#npadesc {
+    text-align:center;
+}
+
+#aboutnpa {
+    margin-top: -10px;
+    background-color: #fafafa;
 }
 
 section {
