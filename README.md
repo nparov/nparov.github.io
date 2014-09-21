@@ -1,5 +1,12 @@
 NPA OpenROV
 ====================
+Northcoast Prepatory and Performing Arts Academy
+OpenROV elective
+A high school STEM program
+
+We are always looking for donations, check out the donate buttons on our website (coming soon).
+
+Uses the Agency Jekyll Theme
 
 
 Agency Jekyll theme
