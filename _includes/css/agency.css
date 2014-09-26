@@ -331,9 +331,9 @@ header .introimg-attr {
 }
 
 #stem {
-    margin-top:100px;
+    margin-top:50px;
     margin-bottom:-10px;
-    padding:0px;
+    /*padding-top:20px;*/
 }
 
 .stem-desc {
@@ -360,6 +360,30 @@ header .introimg-attr {
 #aboutnpa {
     margin-top: -10px;
     background-color: #f5f5f5;
+}
+
+#wpRank {
+    text-align:center;
+    margin:auto;
+}
+
+.wpciw2011_emblem {
+    margin-left:auto;
+    margin-right:auto;
+    width:122px;
+    height:122px;
+}
+
+.wpciw2011_school {
+    color: #777777 !important;
+}
+
+a.wpciw2011_school:link {
+    color: #777;
+}
+
+a.wpciw2011_school:visited {
+    color: #777;
 }
 
 section {
@@ -391,7 +415,7 @@ section h3.section-subheading {
     margin: 15px 0;
     text-transform: none;
 }
-
+/*
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -756,7 +780,7 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
     color: #e74c3c;
-}
+}*/
 
 footer {
     padding: 25px 0;

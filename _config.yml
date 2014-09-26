@@ -26,6 +26,8 @@ people:
 social:
   - title: github
     url: http://github.com/nparov
+  - title: facebook
+    url: https://www.facebook.com/NPAOpenROV
 
 # Postal address (add as many lines as necessary)
 address:
