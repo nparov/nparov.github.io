@@ -6,12 +6,11 @@
 
 	<body id="page-top" class="index">
 
+		{% include navbar,html %}
 		{% include header.html %}
 		{% include stem.html %}
-		{% include about.html %}
-		{% include contact.html %}
+        {% include aboutNPA.html %}
 		{% include footer.html %}
-		{% include modals.html %}
 		{% include js.html %}
 
 	</body>
