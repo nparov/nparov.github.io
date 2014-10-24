@@ -12,7 +12,7 @@ color:
 # Team names, titles and social links
 people:
 - name: The Anonymous Webmaster/sgoblin/EARNMY (that's an anagram)
-  pic: http://upload.wikimedia.org/wikipedia/commons/2/26/Aliensmiley.svg
+  pic: https://upload.wikimedia.org/wikipedia/commons/2/26/Aliensmiley.svg
   position: Head of the Website Team
   easyName: headWebsite
   bioURI: team/headWebsite.md
