@@ -810,14 +810,16 @@ footer span.copyright {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    color:#7A7A7A;
 }
 
-footer ul.quicklinks {
+footer ul.quicklinks li a {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    color:#7A7A7A;
 }
 
 ul.social-buttons {
