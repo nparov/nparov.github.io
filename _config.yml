@@ -11,16 +11,24 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: The Anonymous Webmaster/sgoblin/EARNMY (that's an anagram)
+  pic: http://upload.wikimedia.org/wikipedia/commons/2/26/Aliensmiley.svg
+  position: Head of the Website Team
+  easyName: headWebsite
+  bioURI: team/headWebsite.md
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: github
+      url: https://www.github.com/sgoblin
+    - title: bitbucket
+      url: https://www.bitbucket.com/sgoblin
+- name: Leif Erikson
+  pic: img/team/200px-cropped-Seattle's_Leif_Erikson_statue.jpg
+  position: Chief Exploration Officer
+  easyName: leif
+  bioURI: team/ceo.md
+  social:
+    - title: eye
+      url: https://en.wikipedia.org/wiki/Leif_Erikson
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

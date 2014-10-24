@@ -353,10 +353,13 @@ header .introimg-attr {
     color: #E8150C;
 }
 
-#npadesc {
+.centeredText {
     text-align:center;
 }
 
+.marginTop-50 {
+	margin-top: -50px;
+}
 #aboutnpa {
     margin-top: -10px;
     background-color: #f5f5f5;
@@ -415,6 +418,21 @@ section h3.section-subheading {
     margin: 15px 0;
     text-transform: none;
 }
+
+.size200px {
+	height: 200px;
+	width: 200px;
+}
+
+.displayNone {
+	display:none;
+}
+/*
+.icon-team {
+	position: relative;
+	margin: auto;
+}
+*/
 /*
 #portfolio .portfolio-item {
     right: 0;
@@ -692,7 +710,7 @@ section h3.section-subheading {
         padding: 0 100px 20px 20px;
     }
 }
-
+*/
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -716,7 +734,7 @@ section h3.section-subheading {
 aside.clients img {
     margin: 50px auto;
 }
-
+/*
 section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
