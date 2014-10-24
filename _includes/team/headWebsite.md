@@ -1,1 +1,1 @@
-Hello World
+My name is not known throughout the internet world, and there is good reason for that. I will not let a thing like this spill the real identity of sgoblin into the world, but I do work on this website. I am paranoid about tracking and privacy. I am fluent in more than 1 form of communication including: Java, Python, HTML, CSS, JavaScript, PHP, English, Spanish, and Pirate. I am interested in computer science.
