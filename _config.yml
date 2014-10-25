@@ -29,6 +29,14 @@ people:
   social:
     - title: eye
       url: https://en.wikipedia.org/wiki/Leif_Erikson
+- name: Milo
+  pic: img/team/milo200.jpg
+  position: Member of the website team
+  easyName: milo
+  bioURI: team/milo.html
+  social:
+    - title: instagram
+      url: http://instagram.com/wellerfeller
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
