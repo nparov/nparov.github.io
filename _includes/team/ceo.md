@@ -1,1 +1,1 @@
-Hi, I am Leif Erikson [that's not his real last name]. I've always enjoyed marine biology and recently went on a trip to CIMI (Catalina Island Marine Institute). I joined the project because it seemed like one of the few that were actually interesting.
+Hi, I am Leif. I've always enjoyed marine biology and recently went on a trip to CIMI (Catalina Island Marine Institute). I joined the project because it seemed like one of the few that were actually interesting.
