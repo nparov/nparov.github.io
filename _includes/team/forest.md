@@ -1,0 +1,1 @@
+Forest Williams is a junior at NPA who is very excited about participating in this project and loves adventures. He hopes to be able to use the ROV to explore and discover many things. He is contributing to the project through being the head of public relations as well as having a cool squid hat.
