@@ -55,6 +55,8 @@ people:
   easyName: forest
   bioURI: team/forest.md
   social:
+    - title: youtube
+      url: https://www.youtube.com/user/Wyllsurfer
 - name: More coming soon
   pic: img/team/loading-spin.svg
   position: There is homework, click for more info
