@@ -49,6 +49,12 @@ people:
       url: https://plus.google.com/u/0/109089429719375756207/posts
     - title: github
       url: https://github.com/wyllsurf
+- name: Forest
+  pic: //placekitten.com/200/200
+  position: Member of the website team, Drone pilot
+  easyName: forest
+  bioURI: team/forest.md
+  social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
