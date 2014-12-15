@@ -49,14 +49,12 @@ people:
       url: https://plus.google.com/u/0/109089429719375756207/posts
     - title: github
       url: https://github.com/wyllsurf
-<<<<<<< HEAD
 - name: Forest
   pic: //placekitten.com/200/200
   position: Member of the website team, Drone pilot
   easyName: forest
   bioURI: team/forest.md
   social:
-=======
 - name: More coming soon
   pic: img/team/loading-spin.svg
   position: There is homework, click for more info
@@ -65,7 +63,6 @@ people:
   social:
     - title: cog fa-spin
       url: https://www.youtube.com/watch?v=eFHdRkeEnpM
->>>>>>> origin/master
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
