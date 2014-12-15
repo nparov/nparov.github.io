@@ -50,7 +50,7 @@ people:
     - title: github
       url: https://github.com/wyllsurf
 - name: Forest
-  pic: //placekitten.com/200/200
+  pic: //placekitten.com/g/200/200
   position: Member of the website team, Drone pilot
   easyName: forest
   bioURI: team/forest.md
