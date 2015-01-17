@@ -50,7 +50,7 @@ people:
     - title: github
       url: https://github.com/wyllsurf
 - name: Forest
-  pic: //placekitten.com/g/200/200
+  pic: img/team/forestPlaceholder.jpg
   position: Co-head of the PR team
   easyName: forest
   bioURI: team/forest.md
