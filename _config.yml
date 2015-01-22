@@ -11,11 +11,11 @@ color:
 
 # Team names, titles and social links
 people:
-- name: sgoblin
+- name: Ryan
   pic: https://upload.wikimedia.org/wikipedia/commons/2/26/Aliensmiley.svg
   position: Head of the Website Team
-  easyName: headWebsite
-  bioURI: team/headWebsite.md
+  easyName: sgoblin
+  bioURI: team/sgoblin.txt
   social:
     - title: github
       url: https://www.github.com/sgoblin
@@ -57,6 +57,38 @@ people:
   social:
     - title: youtube
       url: https://www.youtube.com/user/Wyllsurfer
+- name: Kasper
+  pic: img/team/kasper.png
+  position: Co-head of the PR team
+  easyName: kasper
+  bioURI: team/kasper.txt
+  social:
+- name: Kirk
+  pic: img/team/kirk.jpg
+  position: Member of the website team
+  easyName: kirk
+  bioURI: team/kirk.txt
+  social:
+    - title: twitter
+      url: https://twitter.com/khakenen
+    - title: facebook
+      url: https://www.facebook.com/kirk.hakenen
+    - title: google-plus
+      url: https://plus.google.com/117609154261158668210
+- name: Alder
+  pic: img/team/alder.jpg
+  position: Member of the website team
+  easyName: alder
+  bioURI: team/alder.txt
+  social:
+    - title: eye
+      url: https://en.wikipedia.org/wiki/Alnus_glutinosa
+- name: James G.
+  pic: img/team/james.svg
+  position: Member of the website team
+  easyName: jamesg
+  bioURI: team/jamesG.txt
+  social:
 - name: More coming soon
   pic: img/team/loading-spin.svg
   position: There is homework, click for more info
