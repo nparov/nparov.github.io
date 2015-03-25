@@ -1,7 +1,6 @@
 gem 'github-pages'
 source 'https://rubygems.org'
 gem 'jemoji'
-gem 'github-linguist'
 gem 'rinku'
 gem 'escape_utils'
 gem 'email_reply_parser'
