@@ -18,7 +18,7 @@ people:
   bioURI: team/sgoblin.txt
   social:
     - title: github
-      url: https://www.github.com/sgoblin
+      url: https://github.com/sgoblin
     - title: bitbucket
       url: https://bitbucket.org/sgoblin
 - name: Leif
