@@ -285,6 +285,8 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    text-transform: none;
+    font-weight: normal;
 }
 
 header .intro-text .intro-heading {
