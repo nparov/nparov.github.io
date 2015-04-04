@@ -38,13 +38,13 @@ people:
     - title: instagram
       url: http://instagram.com/wellerfeller
 - name: Keaton
-  pic: http://placebear.com/200/200
+  pic: img/team/bear.jpeg
   position: Member of the website team
   easyName: keaton
   bioURI: team/keaton.txt
   social:
 - name: Wyll
-  pic: https://lh3.googleusercontent.com/-_m5FMk7zavw/AAAAAAAAAAI/AAAAAAAAAWY/7MNS5w0XQ1M/s120-c/photo.jpg
+  pic: img/team/wyll.jpg
   position: Member of the website team, Drone pilot
   easyName: wyll
   bioURI: team/wyll.md
