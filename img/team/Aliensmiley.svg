@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="20.0px" height="20.0px" overflow="visible" viewBox="0.0 0.0 20.0 20.0" enable-background="new 0.0 0.0 20.0 20.0" id="svg2" sodipodi:version="0.32" inkscape:version="0.44.1" sodipodi:docname="aliensmiley.svg" sodipodi:docbase="C:\Dokumente und Einstellungen\birdy\Desktop" hola_ext_inject="disabled">
+  <metadata id="metadata48">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview inkscape:window-height="975" inkscape:window-width="1280" inkscape:pageshadow="2" inkscape:pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:zoom="18.9" inkscape:cx="10" inkscape:cy="10" inkscape:window-x="-4" inkscape:window-y="26" inkscape:current-layer="svg2"/>
+  <defs id="defs4">
+    <radialGradient id="Grad1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.831055e-2,0,0,1.863098e-2,6.75,3.6)" r="819.2" cx="0" cy="0">
+      <stop offset="0.0" stop-color="#D3F492" id="stop7"/>
+      <stop offset="1.0" stop-color="#95D41F" id="stop9"/>
+    </radialGradient>
+    <radialGradient id="Grad2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.166748e-3,8.69751e-4,-1.541138e-3,3.768921e-3,12.1,8.5)" r="819.2" cx="0" cy="0">
+      <stop offset="0.5372549" stop-color="#000000" id="stop12"/>
+      <stop offset="0.77254903" stop-color="#293709" id="stop14"/>
+      <stop offset="1.0" stop-color="#485B0F" id="stop16"/>
+    </radialGradient>
+    <radialGradient id="Grad3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2.166748e-3,8.69751e-4,1.541138e-3,3.768921e-3,7,8.5)" r="819.2" cx="0" cy="0">
+      <stop offset="0.5372549" stop-color="#000000" id="stop19"/>
+      <stop offset="0.77254903" stop-color="#293709" id="stop21"/>
+      <stop offset="1.0" stop-color="#485B0F" id="stop23"/>
+    </radialGradient>
+    <radialGradient inkscape:collect="always" xlink:href="#Grad1" id="radialGradient1921" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.831055e-2,0,0,1.863098e-2,6.75,3.6)" cx="0" cy="0" r="819.2"/>
+    <radialGradient inkscape:collect="always" xlink:href="#Grad2" id="radialGradient1923" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.166748e-3,8.69751e-4,-1.541138e-3,3.768921e-3,12.1,8.5)" cx="0" cy="0" r="819.2"/>
+    <radialGradient inkscape:collect="always" xlink:href="#Grad3" id="radialGradient1925" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2.166748e-3,8.69751e-4,1.541138e-3,3.768921e-3,7,8.5)" cx="0" cy="0" r="819.2"/>
+    <radialGradient inkscape:collect="always" xlink:href="#Grad3" id="radialGradient1933" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2.166748e-3,8.69751e-4,1.541138e-3,3.768921e-3,7,8.5)" cx="0" cy="0" r="819.2"/>
+    <radialGradient inkscape:collect="always" xlink:href="#Grad2" id="radialGradient1936" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.166748e-3,8.69751e-4,-1.541138e-3,3.768921e-3,12.1,8.5)" cx="0" cy="0" r="819.2"/>
+    <radialGradient inkscape:collect="always" xlink:href="#Grad1" id="radialGradient1939" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.831055e-2,0,0,1.863098e-2,6.75,3.6)" cx="0" cy="0" r="819.2"/>
+  </defs>
+  <g id="g1941">
+    <path style="fill:url(#radialGradient1939);stroke-linecap:round;stroke-linejoin:round" id="path31" d="M 15.5,15.75 C 13.833333,17.449999 11.833333,18.3 9.5,18.3 C 7.1666665,18.3 5.1666665,17.449999 3.5,15.75 C 1.8,14.05 0.9666666,12.016666 1,9.65 C 0.96666664,7.25 1.8,5.2166667 3.5,3.55 C 5.166667,1.8499999 7.166667,0.9999999 9.5,1 C 11.833334,1 13.833334,1.85 15.5,3.55 C 17.166666,5.2166667 18,7.25 18,9.65 C 18,12.016666 17.166666,14.05 15.5,15.75 z "/>
+    <path style="fill:url(#radialGradient1936);stroke-linecap:round;stroke-linejoin:round" id="path33" d="M 14.45,6.5 C 14.416666,7.2000003 14.249999,7.916667 13.95,8.65 L 12.8,10.65 C 12.333334,11.25 11.85,11.533334 11.35,11.5 C 10.816667,11.433333 10.516666,11.05 10.45,10.35 C 10.35,9.616667 10.383334,8.816667 10.55,7.95 C 10.716667,7.0833335 11.083334,6.416667 11.65,5.95 C 12.216666,5.483333 12.833333,5.2833333 13.5,5.35 C 14.166667,5.4166665 14.483334,5.7999997 14.45,6.5 z "/>
+    <path style="fill:url(#radialGradient1933);stroke-linecap:round;stroke-linejoin:round" id="path35" d="M 6.5,10.65 L 5.35,8.65 C 5.0166664,7.9166665 4.833333,7.2 4.8,6.5 C 4.766667,5.7999997 5.0833335,5.4166665 5.75,5.35 C 6.4166665,5.2833333 7.0333333,5.483333 7.6,5.95 C 8.166666,6.4166665 8.533333,7.083333 8.7,7.95 C 8.866667,8.816667 8.900001,9.616667 8.8,10.35 C 8.733334,11.05 8.45,11.433333 7.95,11.5 C 7.4166665,11.533334 6.9333334,11.25 6.5,10.65 z "/>
+    <path style="fill:none;stroke:#4a9900;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" id="path37" d="M 15.5,15.75 C 13.833333,17.449999 11.833333,18.3 9.5,18.3 C 7.1666665,18.3 5.1666665,17.449999 3.5,15.75 C 1.8,14.05 0.9666666,12.016666 1,9.65 C 0.96666664,7.25 1.8,5.2166667 3.5,3.55 C 5.166667,1.8499999 7.166667,0.9999999 9.5,1 C 11.833334,1 13.833334,1.85 15.5,3.55 C 17.166666,5.2166667 18,7.25 18,9.65 C 18,12.016666 17.166666,14.05 15.5,15.75 z "/>
+    <path style="fill:none;stroke:#8dbe33;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" id="path39" d="M 7.5,13 L 7.5,14.05"/>
+    <path style="fill:none;stroke:#8dbe33;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" id="path41" d="M 11.5,14.05 L 11.5,13"/>
+    <path style="fill:none;stroke:black;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" id="path43" d="M 7.5,14.05 L 11.5,14.05"/>
+    <path style="fill:none;stroke:black;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round" id="path45" d="M 7.5,14.05 L 11.5,14.05"/>
+  </g>
+</svg>

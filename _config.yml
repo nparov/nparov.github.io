@@ -12,7 +12,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Ryan
-  pic: https://upload.wikimedia.org/wikipedia/commons/2/26/Aliensmiley.svg
+  pic: img/team/Aliensmiley.svg
   position: Head of the Website Team
   easyName: sgoblin
   bioURI: team/sgoblin.txt
