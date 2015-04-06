@@ -6,7 +6,7 @@
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
-    $('.navbar-toggle:visible').click();
+  $('.navbar-toggle:visible').click();
 });
 
 /*!
@@ -17,13 +17,13 @@ $('.navbar-collapse ul li a').click(function() {
 $('#clickNamesDiv').removeClass('displayNone');
 
 // Displays the team member's bio in the place of 'click our names...'
-function putBioOnScreen(memberName){
-	if (memberName.getAttribute('id') == 'ourAmazingTeam'){
-		$('.memberShowing').removeClass('memberShowing').addClass('displayNone');
-		$('#clickNamesBanner').removeClass('displayNone').addClass('memberShowing');
-	} else {
-		var memberNameId = memberName.getAttribute('name');
-		$('.memberShowing').removeClass('memberShowing').addClass('displayNone');
-		$('#'+memberNameId).removeClass('displayNone').addClass('memberShowing');	
-	}
+function putBioOnScreen(memberName) {
+  if (memberName.getAttribute('id') == 'ourAmazingTeam') {
+    $('.memberShowing').removeClass('memberShowing').addClass('displayNone');
+    $('#clickNamesBanner').removeClass('displayNone').addClass('memberShowing');
+  } else {
+    var memberNameId = memberName.getAttribute('name');
+    $('.memberShowing').removeClass('memberShowing').addClass('displayNone');
+    $('#' + memberNameId).removeClass('displayNone').addClass('memberShowing');
+  }
 }
