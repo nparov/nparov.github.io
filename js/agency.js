@@ -13,17 +13,17 @@ $('.navbar-collapse ul li a').click(function() {
  * NPA OpenROV custom scripts
  */
 
-// Removes displayNone from the "clickOurNames"
-$("#clickNamesDiv").removeClass("displayNone");
+// Removes displayNone from the 'clickOurNames'
+$('#clickNamesDiv').removeClass('displayNone');
 
-// Displays the team member's bio in the place of "click our names..."
+// Displays the team member's bio in the place of 'click our names...'
 function putBioOnScreen(memberName){
-	if (memberName.getAttribute("id") == "ourAmazingTeam"){
-		$(".memberShowing").removeClass("memberShowing").addClass("displayNone");
-		$("#clickNamesBanner").removeClass("displayNone").addClass("memberShowing");
+	if (memberName.getAttribute('id') == 'ourAmazingTeam'){
+		$('.memberShowing').removeClass('memberShowing').addClass('displayNone');
+		$('#clickNamesBanner').removeClass('displayNone').addClass('memberShowing');
 	} else {
-		memberNameId = memberName.getAttribute("name");
-		$(".memberShowing").removeClass("memberShowing").addClass("displayNone");
-		$("#"+memberNameId).removeClass("displayNone").addClass("memberShowing");	
+		var memberNameId = memberName.getAttribute('name');
+		$('.memberShowing').removeClass('memberShowing').addClass('displayNone');
+		$('#'+memberNameId).removeClass('displayNone').addClass('memberShowing');	
 	}
 }
