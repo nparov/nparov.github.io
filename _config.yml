@@ -21,22 +21,22 @@ people:
       url: https://github.com/sgoblin
     - title: bitbucket
       url: https://bitbucket.org/sgoblin
-- name: Leif
-  pic: img/team/200px-cropped-Seattle's_Leif_Erikson_statue.jpg
-  position: Chief Exploration Officer
-  easyName: leif
-  bioURI: team/ceo.md
-  social:
-    - title: eye
-      url: https://en.wikipedia.org/wiki/Leif_Erikson
-- name: Milo
-  pic: img/team/milo200.jpg
-  position: Member of the website team
-  easyName: milo
-  bioURI: team/milo.html
-  social:
-    - title: instagram
-      url: http://instagram.com/wellerfeller
+#- name: Leif
+#  pic: img/team/200px-cropped-Seattle's_Leif_Erikson_statue.jpg
+#  position: Chief Exploration Officer
+#  easyName: leif
+#  bioURI: team/ceo.md
+#  social:
+#    - title: eye
+#      url: https://en.wikipedia.org/wiki/Leif_Erikson
+#- name: Milo
+#  pic: img/team/milo200.jpg
+#  position: Member of the website team
+#  easyName: milo
+#  bioURI: team/milo.html
+#  social:
+#    - title: instagram
+#      url: http://instagram.com/wellerfeller
 - name: Keaton
   pic: img/team/bear.jpeg
   position: Member of the website team
@@ -55,32 +55,32 @@ people:
       url: https://plus.google.com/u/0/109089429719375756207/posts
     - title: github
       url: https://github.com/wyllsurf
-- name: Forest
-  pic: img/team/forestPlaceholder.jpg
-  position: Co-head of the PR team
-  easyName: forest
-  bioURI: team/forest.md
-  social:
-    - title: youtube
-      url: https://www.youtube.com/user/Wyllsurfer
-- name: Kasper
-  pic: img/team/kasper.png
-  position: Co-head of the PR team
-  easyName: kasper
-  bioURI: team/kasper.txt
-  social:
-- name: Kirk
-  pic: img/team/kirk.jpg
-  position: Member of the website team
-  easyName: kirk
-  bioURI: team/kirk.txt
-  social:
-    - title: twitter
-      url: https://twitter.com/khakenen
-    - title: facebook
-      url: https://www.facebook.com/kirk.hakenen
-    - title: google-plus
-      url: https://plus.google.com/117609154261158668210
+#- name: Forest
+#  pic: img/team/forestPlaceholder.jpg
+#  position: Co-head of the PR team
+#  easyName: forest
+#  bioURI: team/forest.md
+#  social:
+#    - title: youtube
+#      url: https://www.youtube.com/user/Wyllsurfer
+#- name: Kasper
+#  pic: img/team/kasper.png
+#  position: Co-head of the PR team
+#  easyName: kasper
+#  bioURI: team/kasper.txt
+#  social:
+#- name: Kirk
+#  pic: img/team/kirk.jpg
+#  position: Member of the website team
+#  easyName: kirk
+#  bioURI: team/kirk.txt
+#  social:
+#    - title: twitter
+#      url: https://twitter.com/khakenen
+#    - title: facebook
+#      url: https://www.facebook.com/kirk.hakenen
+#    - title: google-plus
+#      url: https://plus.google.com/117609154261158668210
 - name: Alder
   pic: img/team/alder.jpg
   position: Member of the website team
