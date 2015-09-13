@@ -95,6 +95,24 @@ people:
   easyName: jamesg
   bioURI: team/jamesG.txt
   social:
+- name: Lucas
+  pic: img/team/forestPlaceholder.jpg
+  position: Man with the Hat
+  easyName: lucas
+  bioURI: team/lucas.txt
+  social:
+- name: Ian Long
+  pic: img/team/ian0.png
+  position: 
+  easyName: ian0
+  bioURI: team/ian0.txt
+  social:
+- name: Ian 1
+  pic: img/team/ian1.jpg
+  position:
+  easyName: ian1
+  bioURI: team/ian1.txt
+  social:
 - name: More coming soon
   pic: img/team/loading-spin.svg
   position: There is homework, click for more info
