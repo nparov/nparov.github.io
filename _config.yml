@@ -113,14 +113,6 @@ people:
   easyName: ian1
   bioURI: team/ian1.txt
   social:
-- name: More coming soon
-  pic: img/team/loading-spin.svg
-  position: There is homework, click for more info
-  easyName: soon
-  bioURI: team/cs.txt
-  social:
-    - title: cog fa-spin
-      url: https://www.youtube.com/watch?v=eFHdRkeEnpM
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
