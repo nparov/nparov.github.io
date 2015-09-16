@@ -87,8 +87,8 @@ people:
   easyName: alder
   bioURI: team/alder.txt
   social:
-    - title: eye
-      url: https://en.wikipedia.org/wiki/Alnus_glutinosa
+#    - title: eye
+#      url: https://en.wikipedia.org/wiki/Alnus_glutinosa
 - name: James G.
   pic: img/team/james.svg
   position: Member of the website team
@@ -100,6 +100,12 @@ people:
   position: Man with the Hat
   easyName: lucas
   bioURI: team/lucas.txt
+  social:
+- name: Delaney
+  pic: img/team/delaney.jpg
+  position:
+  easyName: delaney
+  bioURI: team/delaney.txt
   social:
 - name: Ian Long
   pic: img/team/ian0.png
