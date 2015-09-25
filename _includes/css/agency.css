@@ -263,20 +263,20 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: black;
     background-attachment: scroll;
-    background-image: url(img/GOPR1712-280-210.jpg);
+    background-image: url(img/polygenrov1.png);
     background-position: center center;
-    background-repeat: repeat;
+    /*background-repeat: repeat;*/
     -webkit-background-size: auto;
     -moz-background-size: auto;
-    background-size: auto;;
+    background-size: cover;
     -o-background-size: auto;
 }
 
 header .intro-text {
     padding-top: 75px;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
 }
 
 header .intro-text .intro-lead-in {
@@ -287,6 +287,7 @@ header .intro-text .intro-lead-in {
     line-height: 22px;
     text-transform: none;
     font-weight: normal;
+    color: #fff;
 }
 
 header .intro-text .intro-heading {
